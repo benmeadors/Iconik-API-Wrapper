@@ -9,7 +9,7 @@ Specifically, this wrapper can do the following
 - calculate asset duration
 - get signed url for proxy file of asset
 - request a new transcription ID 
-- add metdata
+- add metadata
 - add any kind of bulk segment via JSON payload 
 
 ### Users
