@@ -5,17 +5,17 @@ This is my on-going project to create an API wrapper in Python for Iconik.io. Ic
 Specifically, this wrapper can do the following
 
 ### Assets
--get asset info
--calculate asset duration
--get signed url for proxy file of asset
--request a new transcription ID 
--add metdata
--add any kind of bulk segment via JSON payload 
+- get asset info
+- calculate asset duration
+- get signed url for proxy file of asset
+- request a new transcription ID 
+- add metdata
+- add any kind of bulk segment via JSON payload 
 
 ### Users
--Get user's info from Iconik
+- Get user's info from Iconik
 
 ### Jobs
--get a job's info from Iconik
--create a new job
--update an existing job 
+- get a job's info from Iconik
+- create a new job
+- update an existing job 
